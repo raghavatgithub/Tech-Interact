@@ -9,3 +9,5 @@ WebRTC - With WebRTC, you can add real-time communication capabilities to your a
 
 Frontend - React Js + 3 Js
 
+React - A JavaScript library for building user interfaces.
+(https://reactjs.org/)
